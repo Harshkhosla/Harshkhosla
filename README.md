@@ -1,4 +1,3 @@
-# readMe
 <h2 align="left">Hi 👋! My name is Harsh Khosla and I'm a Fullstack Developer</h2>
 
 ###
