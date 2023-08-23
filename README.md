@@ -64,8 +64,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Harshkhosla/Harshkhosla/output/snake.svg" alt="Snake animation" />
-
-###
