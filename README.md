@@ -9,14 +9,6 @@ From frontend experiences to scalable backend systems — I enjoy the full journ
 
 ---
 
-## 🧠 Tech Snapshot  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,html,css,git,github,python,solidity" />
-</p>
-
----
-
 ## 🔨 What I Work With  
 
 ### 🔹 Frontend  
