@@ -20,9 +20,10 @@ Always learning, always shipping, always curious. ⚡
 ### 📊 GitHub Insights  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Harshkhosla&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshkhosla&layout=compact&theme=tokyonight&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarshKhosla&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshKhosla&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
