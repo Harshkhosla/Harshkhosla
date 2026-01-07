@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#7C3AED">Harsh Khosla</span></h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer (SDE-1 @ Netomi) | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
 I love building products that combine clean UI, solid engineering, and real-world impact.  
@@ -12,7 +12,7 @@ From frontend experiences to scalable backend systems — I enjoy the full journ
 ## 🧠 Tech Snapshot  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,html,css,git,github,python,solidity" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,html,css,git,github,python,solidity,aws,s3,kubernetes" />
 </p>
 
 ---
@@ -27,16 +27,6 @@ From frontend experiences to scalable backend systems — I enjoy the full journ
     <img height="35" src="https://img.shields.io/badge/Stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 💬 About Me
-
-🥇 Working in Netomi as a SDE-1  
-🧠 Curious about tech beyond tutorials  
-🚀 Love turning ideas into shipped projects  
-🎯 Goal: Build useful, scalable products  
-😄 Motto: **Learn. Build. Improve. Repeat.**
 
 ---
 
