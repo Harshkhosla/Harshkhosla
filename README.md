@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#7C3AED">Harsh Khosla</span></h1>
 
-<h3 align="center">🚀 Full-Stack Developer (SDE-1 @ Netomi) | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer (SDE-2 @ Netomi) | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
 I love building products that combine clean UI, solid engineering, and real-world impact.  
